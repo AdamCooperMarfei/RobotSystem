@@ -9,6 +9,6 @@ namespace singleaxisspeedplan{
         double m_cur_pos, m_target_pos;
         std::vector<double> m_s_list;
 
-    }
+    };
 }
 
